@@ -1,0 +1,4 @@
+# Prevent common plaintext files from accidental commit
+*.tmp
+*.swp
+*.DS_Store
